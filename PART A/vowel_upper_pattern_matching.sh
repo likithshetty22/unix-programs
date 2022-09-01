@@ -40,5 +40,5 @@ case $choice in
   grep "$pname" $fname
  ;;
 
-4) exit ;;
+4)exit ;;
 Esac
